@@ -7,12 +7,14 @@
 > __`You can use this resource by the following exports:`__
 
 ●  | Show:
-
+```lua
 exports['lab-TextUI']:Show('Example Text')
+```
 
 ●  | Hide:
-
+```lua
 exports['lab-TextUI']:Hide()
+```
 
 > __`Example Usage:`__
 
