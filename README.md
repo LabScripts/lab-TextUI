@@ -16,6 +16,7 @@ exports['lab-TextUI']:Hide()
 
 > __`Example Usage:`__
 
+```lua
 Citizen.CreateThread(function()
     local inZone = false
     local enteredZone = false
@@ -44,4 +45,5 @@ Citizen.CreateThread(function()
     Citizen.Wait(sleep)
     end
 end)
+```
 
