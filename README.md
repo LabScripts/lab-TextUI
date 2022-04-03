@@ -34,10 +34,10 @@ Citizen.CreateThread(function()
         end
 
         if not enteredZone and inZone then
-            exports['lab-TextUI']:Open('Black Market Auctions')
+            exports['lab-TextUI']:Show('Black Market Auctions')
             enteredZone = true
         elseif enteredZone and not inZone then
-            exports['lab-TextUI']:Close()
+            exports['lab-TextUI']:Hide()
             enteredZone = false
         end
 
