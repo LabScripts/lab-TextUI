@@ -26,6 +26,7 @@ body {
 	top:48.8%;
 	left: 57.5%;
 	position:absolute;
+	transform:scale(0.8);
 }
 
 .line {
