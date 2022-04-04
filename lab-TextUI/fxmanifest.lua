@@ -13,8 +13,7 @@ client_scripts {
 }
 
 files {
-	'web/*.*',
-	'web/img/interact.png'
+	'web/*.*'
 }
 
 export 'Show'
