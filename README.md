@@ -1,6 +1,6 @@
 # lab-TextUI
 
-![alt text](https://media.discordapp.net/attachments/845707687755907092/959933813042085908/unknown.png?width=1277&height=910)
+![alt text](https://media.discordapp.net/attachments/826948656669392906/960632830361219172/unknown.png)
 
 > Lab Scripts | Dogo#1950
 
