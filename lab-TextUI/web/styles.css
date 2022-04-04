@@ -11,13 +11,40 @@ body {
 	display: none;
 }
 
+.eCircle {
+    	border-radius: 100%;
+    	width: 1.1%;
+    	height: 1.8%;
+    	padding: 0.4%;
+	padding-bottom: 0.5%;
+    	background: rgba(255, 255, 255, 0);
+    	border: 2px solid rgba(0, 246, 213, 0.8);
+    	color: rgba(255, 255, 255, 0.8);
+    	text-align: center;
+	text-shadow: 1px 1px 4px #000000;
+    	font: 1.1vw Arial, sans-serif;
+	top:48.8%;
+	left: 57.5%;
+	position:absolute;
+}
+
+.line {
+    	width: 2%;
+    	height: 1%;
+	top:50.55%;
+	left: 55%;
+	position:absolute;
+	border-top: 2px solid rgba(255, 255, 255, 0.8);
+	border-left: 2px solid rgba(255, 255, 255, 0.8);
+}
+
 .text {
 	text-align:left;
 	position:absolute;
 	width:fit-content;
 	height: fit-content;
 	color:rgba(255, 255, 255, 0.8);
-	left: 60.3%;
+	left: 60%;
 	top:49.4%;
 	display: block;
 	font-size: 1.1vw;
